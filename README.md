@@ -1,20 +1,20 @@
 ## Hi there 👋 I am Matvei Riabushkin, backend dev
 
-I'm an 18-year-old backend developer from Moscow, Russia. I mostly work in Java/Python and study software engineering and computer science at HSE University.
+I'm a 19-year-old backend dev from Moscow. I mostly work in Java/Python and study Software Engineering and Computer Science at HSE University and Central University.
 
 ### About Me
 
-- Daily improving my backend skills via pets, and learning new tech.
-- I love traveling, language learning and photography.
-- Trying to keep up with modern tech stack.
+- Daily improving my skills via pets, and learning new tools, libs, dependencies
+- Watch Java conferences and read tech authors
+- Besides IT, I love traveling, language learning, photography and Japanese/Chinese tea
 
 ### My goals
 
-- Gain some experience through internships or projects.
-- Improve my skills and build useful tools.
-- Grow as a dev. 
+- Gain experience in IT
+- Someday create a useful project/tool for community 
+- Grow as a dev and benefit to the world) 
 
-Feel free to check out my projects!
+Check out my projects, some of them are worth it
 
 ### Reach me here
 
