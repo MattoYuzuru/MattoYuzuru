@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Matvei Riabushkin, backend dev
 
-I'm a 19-year-old backend dev from Moscow. I mostly work in Java/Python and study Software Engineering and Computer Science at HSE University and Central University.
+I'm a 20-year-old backend dev from Moscow. I mostly work in Java/Python and study Software Engineering and Computer Science at HSE University and Central University.
 
 ### About Me
 
