@@ -5,7 +5,7 @@
   <img src="./assets/header-light.svg" alt="Backend systems. AI tooling." width="880">
 </picture>
 
-Backend developer in Moscow, studying at **HSE University** and **Central University**.
+Backend developer in Moscow, studying at **[HSE University](https://www.hse.ru/en/)** and **[Central University](https://cu.ru/)**.
 I build web products and the tools I use to develop them: agent skills, plugins, MCP servers, and harnesses.
 
 [Telegram](https://t.me/Keyko_Mi) · [Email](mailto:matveyryabushkin@gmail.com)
@@ -25,32 +25,45 @@ I build web products and the tools I use to develop them: agent skills, plugins,
 | :--- | :--- |
 | **[Yuzuru Engineering Extensions](https://github.com/MattoYuzuru/yuzuru-skills)** | Skills, plugins, MCP integrations, and helpers shared across Codex, Claude Code, and DeepSeek Harness. |
 | **[Kansoku](https://github.com/MattoYuzuru/Kansoku)** | Local observability for coding agents: which skills and tools they actually use, with coverage and provenance for the data. |
-| **[BPMN.Space](https://github.com/MattoYuzuru/BPMN.Space)** · [Try it](https://bpmn.space) | A two-person hackathon project turning documents and voice notes into editable BPMN diagrams, with source-backed clarification. |
 | **[Mnema](https://github.com/MattoYuzuru/Mnema)** · [Try it](https://mnema.app) | Learning from your own material: exercises, spaced repetition, and AI-assisted authoring. Java / Spring Boot + Angular. |
+| **[BPMN.Space](https://github.com/MattoYuzuru/BPMN.Space)** · [Try it](https://bpmn.space) | A two-person hackathon project turning documents and voice notes into editable BPMN diagrams, with source-backed clarification. |
 | **[Jack](https://github.com/MattoYuzuru/Jack)** | A web toolkit for files, media, PDFs, and developer utilities. Java / Spring Boot + Vue. |
-
-<details>
-<summary><strong>Watch BPMN.Space in action</strong></summary>
-
-Documents → clarifying questions → an editable process diagram.
-
-<a href="https://bpmn.space">
-  <img src="https://raw.githubusercontent.com/MattoYuzuru/BPMN.Space/main/docs/media/demo.gif" alt="BPMN.Space demo showing document analysis and process playback" width="880" loading="lazy">
-</a>
-
-Built with Timofey Yakovlev for the “AI Assistants for Energy” hackathon.
-
-</details>
 
 ## Stack & tech radar
 
-<img src="./assets/stack.svg" alt="Java, Kotlin, Python, Go, TypeScript, PostgreSQL, Docker, Linux" width="440">
+**Languages**
+
+<img src="./assets/stack.svg" alt="Java, Kotlin, Python, Go, TypeScript, JavaScript, Bash" width="385">
+
+**Backend & build tools**
+
+<img src="./assets/stack-backend.svg" alt="Spring, Hibernate, Gradle, Maven, FastAPI, Django" width="329">
+
+**Web & mobile**
+
+<img src="./assets/stack-web.svg" alt="Angular, React, Vue, Next.js, Vite" width="273">
+
+**Data & storage**
+
+<p>
+  <img src="./assets/stack-data.svg" alt="PostgreSQL, Redis, MySQL" width="161">
+  <img src="./assets/clickhouse.svg" alt="ClickHouse" width="48">
+</p>
+
+**Infrastructure**
+
+<img src="./assets/stack-infrastructure.svg" alt="Docker, NGINX, Kubernetes, Linux, GitHub Actions" width="273">
 
 | Area | Technologies |
 | :--- | :--- |
-| **Backend** | Java, Python, Go · Spring Boot, FastAPI · PostgreSQL, Redis |
-| **Web & mobile** | TypeScript · Angular, React, Vue · Kotlin Multiplatform |
-| **Delivery** | Docker, Linux, GitHub Actions |
+| **Java / JVM** | Spring Boot, Spring Security, Spring Data JPA, Hibernate, JDBC, Flyway · Gradle, Maven |
+| **Python & Go** | FastAPI, Django, SQLAlchemy, Alembic · Go, pgx |
+| **Web & mobile** | Angular, React, Vue, Next.js, RxJS, Vite · Kotlin Multiplatform |
+| **Data & storage** | PostgreSQL, Redis, ClickHouse, MySQL · MinIO / S3 |
+| **Infrastructure** | Docker, Docker Compose, Linux, NGINX, Kubernetes / k3s, cert-manager · GitHub Actions, GHCR |
+| **APIs & auth** | REST, gRPC / Protobuf, WebSocket · OAuth 2.0, OpenID Connect, JWT |
+| **Observability** | OpenTelemetry, Spring Boot Actuator |
+| **Testing** | JUnit 5, Mockito, Testcontainers, JaCoCo · Playwright, Vitest, pytest |
 
 My current radar reflects what I use, build, and investigate:
 
@@ -87,5 +100,5 @@ Powered by [snk](https://github.com/Platane/snk).
 
 ## Away from the editor
 
-Travel, language learning, photography, and Japanese and Chinese tea.
-I also built **[Polka](https://github.com/MattoYuzuru/Polka)**, a personal bookshelf for recommendations, quotes, and reading notes.
+I love running, travel, photography, video games, and Japanese and Chinese tea.
+I also study languages: English, Spanish, and Japanese.
