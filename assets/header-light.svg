@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="232" viewBox="0 0 880 232" role="img" aria-labelledby="title desc">
+  <title id="title">Backend systems. AI tooling.</title>
+  <desc id="desc">Yuzuru: building products, connecting tools, and observing agents.</desc>
+  <rect width="880" height="232" rx="14" fill="#F5F8F6"/>
+  <rect x=".5" y=".5" width="879" height="231" rx="14" fill="none" stroke="#D8E5DD"/>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">
+    <text x="32" y="38" font-family="monospace" font-size="12" letter-spacing="2.4" fill="#237A65">YUZURU / ENGINEERING</text>
+    <text x="30" y="99" font-size="49" font-weight="700" letter-spacing="-1.8" fill="#183C2E">Backend systems.</text>
+    <text x="30" y="154" font-size="49" font-weight="700" letter-spacing="-1.8" fill="#237A65">AI tooling.</text>
+    <text x="32" y="200" font-size="14" fill="#557267">Products, protocols, and tools for agents.</text>
+  </g>
+  <g transform="translate(705 112)" fill="none" stroke="#D8E5DD">
+    <circle r="85"/>
+    <circle r="52"/>
+    <path d="M-110 0H110M0-92V92" stroke-dasharray="3 7"/>
+    <path d="M-65-52L68-32L12 76Z" stroke="#237A65" stroke-width="1.5"/>
+    <g fill="#F5F8F6" stroke="#237A65" stroke-width="2">
+      <circle cx="-65" cy="-52" r="6"/>
+      <circle cx="68" cy="-32" r="6"/>
+      <circle cx="12" cy="76" r="6"/>
+    </g>
+    <circle r="6" fill="#237A65" stroke="none"/>
+  </g>
+  <g font-family="monospace" font-size="10" letter-spacing="1.2" fill="#557267">
+    <text x="596" y="43">BUILD</text>
+    <text x="785" y="73">CONNECT</text>
+    <text x="739" y="211">OBSERVE</text>
+  </g>
+</svg>
